@@ -1,1 +1,3 @@
 ola, modificando para novos teste no git bash
+
+fazendo uma arquivo para o git ignorar direto do terminal
